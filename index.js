@@ -28,7 +28,7 @@ module.exports = (api, projectOptions) => {
                 console.log(ips)
                 qrcode.toString(url.replace('localhost', ips[0]), {type: 'terminal'}, (err, url) => {
                     if (err) {
-                        console.warn(er)
+                        console.warn(err)
                     } else {
                         console.log(url)
                     }

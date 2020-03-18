@@ -2,9 +2,8 @@
   "name": "@champkeh/vue-cli-plugin-qrcode",
   "version": "0.0.2",
   "description": "vue-cli plugin to print qrcode with serve command",
-  "author": "Champ <champion.ge@gmail.com>",
+  "author": "Champkeh <champion.ge@gmail.com>",
   "main": "index.js",
-  "private": false,
   "bugs": {
     "url": "https://github.com/champkeh/vue-cli-plugin-qrcode/issues"
   },

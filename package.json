@@ -1,6 +1,6 @@
 {
   "name": "@champkeh/vue-cli-plugin-qrcode",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "vue-cli plugin to print qrcode with serve command",
   "author": "Champkeh <champion.ge@gmail.com>",
   "main": "index.js",

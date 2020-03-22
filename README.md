@@ -6,7 +6,7 @@
 
 ## install
 ```shell script
-vue add @champkeh/vue-cli-plugin-qrcode --dev
+vue add @champkeh/vue-cli-plugin-qrcode
 ```
 
 ## usage
